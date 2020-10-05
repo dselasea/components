@@ -8,6 +8,7 @@ import ComponentTypes from "./ComponentTypes";
 import Tables from "./Tables";
 import ReactUses from "./ReactUses";
 import Learn from "./Learn";
+import Button from "./Button";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Tables />
       <ReactUses />
       <Learn />
+      <Button />
     </div>
   );
 }
