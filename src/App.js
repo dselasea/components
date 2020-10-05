@@ -9,6 +9,7 @@ import Tables from "./Tables";
 import ReactUses from "./ReactUses";
 import Learn from "./Learn";
 import Button from "./Button";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
       <ReactUses />
       <Learn />
       <Button />
+      <Footer />
     </div>
   );
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "./Button";
 
 function Lists() {
   return (
@@ -10,6 +11,7 @@ function Lists() {
         <li>Live-editing CSS and JS in development.</li>
         <li>Optimizing the output for production.</li>
       </ul>
+      <Button />
     </div>
   );
 }
