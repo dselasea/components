@@ -1,15 +1,15 @@
 import React from "react";
 import "./App.css";
-import Header from "./Header";
-import Body from "./Body";
-import CreateReactApp from "./CreateReactApp";
-import Lists from "./Lists";
-import ComponentTypes from "./ComponentTypes";
-import Tables from "./Tables";
-import ReactUses from "./ReactUses";
-import Learn from "./Learn";
-import Button from "./Button";
-import Footer from "./Footer";
+import Header from "./components/Header";
+import Body from "./components/Body";
+import CreateReactApp from "./components/CreateReactApp";
+import Lists from "./components/Lists";
+import ComponentTypes from "./components/ComponentTypes";
+import Tables from "./components/Tables";
+import ReactUses from "./components/ReactUses";
+import Learn from "./components/Learn";
+import Button from "./components/Button";
+import Footer from "./components/Footer";
 
 function App() {
   return (
