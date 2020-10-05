@@ -7,6 +7,7 @@ import Lists from "./Lists";
 import ComponentTypes from "./ComponentTypes";
 import Tables from "./Tables";
 import ReactUses from "./ReactUses";
+import Learn from "./Learn";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <ComponentTypes />
       <Tables />
       <ReactUses />
+      <Learn />
     </div>
   );
 }
